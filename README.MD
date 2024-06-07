@@ -46,7 +46,9 @@ A intermitência refere-se à natureza variável e imprevisível da produção d
 ## Tecnologias Necessárias:
 ### Frontend:
 - **React native:** Framework mobile cross plataform baseado em javascript para desenvolver o aplicativo IOS e Android com mais agilidade.
-###Back end:
+
+
+### Back end:
 - **IoT (Internet das Coisas):** Sensores e dispositivos conectados para monitorar o consumo e a produção de energia.
 - **Big Data e Analytics:** Análise de grandes volumes de dados para fornecer insights e sugestões personalizadas.
 - **Inteligência Artificial:** Algoritmos de IA para prever a produção de energia e otimizar o uso.
@@ -58,9 +60,10 @@ O aplicativo PLANETA SAUDÁVEL visa capacitar os usuários a adotar práticas de
 ![Prototipo](https://github.com/thallisonferreira/Aplicativo-PLANETA-SAUD-VEL/blob/main/Prototipo.png "Prototipo")
 
 
-#Diagrama
+# Diagrama
 ![Diagrama](https://github.com/thallisonferreira/Aplicativo-PLANETA-SAUD-VEL/blob/main/Diagrama.png "Diagrama")
-#Documentação técnica
+
+# Documentação técnica
 [Documentação em word](https://github.com/thallisonferreira/Aplicativo-PLANETA-SAUD-VEL/blob/main/PLANETA-SAUDAVEL.docx "Documentação")
 
 
