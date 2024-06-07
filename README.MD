@@ -20,10 +20,10 @@ A intermitência refere-se à natureza variável e imprevisível da produção d
 **Descrição:** O Planeta saudável é um aplicativo móvel projetado para ajudar os usuários a gerenciar, monitorar e otimizar o uso de energia limpa em suas residências e pequenas empresas. O objetivo é tornar a energia renovável mais acessível, eficiente e economicamente viável para todos.
 ## Funcionalidades Principais:
 ### Monitoramento de Consumo de Energia:
-- ** Dashboard em Tempo Real:** Exibe o consumo de energia em tempo real, destacando o uso de energia renovável versus energia convencional.
+- **Dashboard em Tempo Real:** Exibe o consumo de energia em tempo real, destacando o uso de energia renovável versus energia convencional.
 - **Histórico de Consumo:** Permite visualizar o consumo de energia ao longo do tempo, com gráficos e relatórios detalhados.
 #### Integração com Sistemas de Energia Renovável:
-- ** Painéis Solares:** Monitoramento da produção de energia solar em tempo real, incluindo eficiência e desempenho.
+- **Painéis Solares:** Monitoramento da produção de energia solar em tempo real, incluindo eficiência e desempenho.
 - **Turbinas Eólicas:** Dados sobre a produção de energia eólica, se aplicável.
 - **Baterias de Armazenamento:** Status e níveis de carga das baterias de armazenamento de energia.
 #### Gestão e Otimização de Energia:
@@ -56,6 +56,7 @@ O aplicativo PLANETA SAUDÁVEL visa capacitar os usuários a adotar práticas de
 
 # Protótipo
 ![Prototipo](https://github.com/thallisonferreira/Aplicativo-PLANETA-SAUD-VEL/blob/main/Prototipo.png "Prototipo")
+
 
 #Diagrama
 ![Diagrama](https://github.com/thallisonferreira/Aplicativo-PLANETA-SAUD-VEL/blob/main/Diagrama.png "Diagrama")
